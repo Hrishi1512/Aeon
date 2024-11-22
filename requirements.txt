@@ -29,7 +29,6 @@ pillow
 psutil
 pybase64
 pycountry
-git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
 python-dotenv
 pyshorteners
 python-magic
